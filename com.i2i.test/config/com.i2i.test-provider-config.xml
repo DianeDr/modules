@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <provider>
+   <bean>
+       <name>print</name>
+       <class>com.i2i.test.service.TestService</class>
+       <singleton>true</singleton>
+   </bean>
+ </provider>
